@@ -1,0 +1,22 @@
+{
+  "name": "hide_branch_tasks",
+  "version": "1.0.0",
+  "description": "The sample program for gulp --tasks to hide branch tasks (series/parallel) in display.",
+  "main": "tasks.js",
+  "scripts": {
+    "test": "node tasksTest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sttk/samples_for_gulp-cli.git"
+  },
+  "author": "sttk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sttk/samples_for_gulp-cli/issues"
+  },
+  "homepage": "https://github.com/sttk/samples_for_gulp-cli#readme",
+  "dependencies": {
+    "chalk": "^1.1.1"
+  }
+}
