@@ -21,6 +21,14 @@ module.exports = {
       return chalk.white(name);
     }
   },
+
+  flag: function(flag) {
+    return chalk.magenta(flag);
+  },
+
+  desc: function(desc) {
+    return chalk.white(desc);
+  },
 }
 
 
