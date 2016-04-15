@@ -1,3 +1,3 @@
-# samples for gulp-cli
+# My sample repository
 
-This repository stores sample programs for gulp-cli.
+This repository stores my various sample programs.
