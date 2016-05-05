@@ -1,0 +1,19 @@
+{
+  "name": "samples",
+  "version": "0.0.0",
+  "description": "samples",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sttk/samples.git"
+  },
+  "author": "sttk",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sttk/samples/issues"
+  },
+  "homepage": "https://github.com/sttk/samples#readme"
+}
